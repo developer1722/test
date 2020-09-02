@@ -1,1 +1,3 @@
 Ana deneme dosyası
+İkinci satır eklendi
+:wq
